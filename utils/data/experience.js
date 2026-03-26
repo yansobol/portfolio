@@ -2,7 +2,7 @@ export const experiences = [
 	{
 		id: 1,
 		title: 'Full Stack Developer',
-		company: 'Threat Detector',
+		company: 'DigitalShield',
 		about: [
 			`• Developed and maintained full-stack solutions for real-time monitoring systems using
       Angular with TypeScript and Nest.js.`,
@@ -15,6 +15,6 @@ export const experiences = [
 			`• Stayed updated on industry best practices and emerging technologies to drive continuous
       improvement in software development processes.`,
 		],
-		duration: 'October 2023 - Present - Present',
+		duration: '2023 - 2025',
 	},
 ]
